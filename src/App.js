@@ -30,7 +30,7 @@ class App extends Component {
           Brew from anywhere.
           </p>
         </header>
-        <div>
+        <div className= "brew-components">
           <MainNav />
           <Home />
         </div>
